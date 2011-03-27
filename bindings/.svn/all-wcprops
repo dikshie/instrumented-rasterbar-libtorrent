@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/libtorrent/!svn/ver/5321/branches/RC_0_15/bindings
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/libtorrent/!svn/ver/3848/branches/RC_0_15/bindings/Makefile.am
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/libtorrent/!svn/ver/3793/branches/RC_0_15/bindings/README.txt
+END

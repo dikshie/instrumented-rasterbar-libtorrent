@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/libtorrent/!svn/ver/5297/branches/RC_0_15/examples
+END
+dump_torrent.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/libtorrent/!svn/ver/3793/branches/RC_0_15/examples/dump_torrent.cpp
+END
+enum_if.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/libtorrent/!svn/ver/5279/branches/RC_0_15/examples/enum_if.cpp
+END
+connection_tester.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/libtorrent/!svn/ver/4170/branches/RC_0_15/examples/connection_tester.cpp
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/libtorrent/!svn/ver/4158/branches/RC_0_15/examples/Jamfile
+END
+simple_client.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/libtorrent/!svn/ver/3793/branches/RC_0_15/examples/simple_client.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/libtorrent/!svn/ver/3848/branches/RC_0_15/examples/Makefile.am
+END
+make_torrent.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/libtorrent/!svn/ver/4419/branches/RC_0_15/examples/make_torrent.cpp
+END
+client_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/libtorrent/!svn/ver/5297/branches/RC_0_15/examples/client_test.cpp
+END

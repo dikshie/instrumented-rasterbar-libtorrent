@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/libtorrent/!svn/ver/5297/branches/RC_0_15/src/kademlia
+END
+refresh.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/libtorrent/!svn/ver/4495/branches/RC_0_15/src/kademlia/refresh.cpp
+END
+routing_table.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/libtorrent/!svn/ver/5297/branches/RC_0_15/src/kademlia/routing_table.cpp
+END
+rpc_manager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/libtorrent/!svn/ver/5180/branches/RC_0_15/src/kademlia/rpc_manager.cpp
+END
+node_id.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/libtorrent/!svn/ver/5134/branches/RC_0_15/src/kademlia/node_id.cpp
+END
+closest_nodes.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/libtorrent/!svn/ver/3793/branches/RC_0_15/src/kademlia/closest_nodes.cpp
+END
+node.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/libtorrent/!svn/ver/5297/branches/RC_0_15/src/kademlia/node.cpp
+END
+find_data.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/libtorrent/!svn/ver/3793/branches/RC_0_15/src/kademlia/find_data.cpp
+END
+traversal_algorithm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/libtorrent/!svn/ver/4495/branches/RC_0_15/src/kademlia/traversal_algorithm.cpp
+END
+dht_tracker.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/libtorrent/!svn/ver/5297/branches/RC_0_15/src/kademlia/dht_tracker.cpp
+END

@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/libtorrent/!svn/ver/5420/branches/RC_0_15
+END
+autotool.sh
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/libtorrent/!svn/ver/3875/branches/RC_0_15/autotool.sh
+END
+parse_session_stats.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/libtorrent/!svn/ver/4338/branches/RC_0_15/parse_session_stats.py
+END
+list_files.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/libtorrent/!svn/ver/4338/branches/RC_0_15/list_files.py
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/libtorrent/!svn/ver/3793/branches/RC_0_15/AUTHORS
+END
+parse_bandwidth_log.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/libtorrent/!svn/ver/4338/branches/RC_0_15/parse_bandwidth_log.py
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/libtorrent/!svn/ver/5420/branches/RC_0_15/ChangeLog
+END
+set_version.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/libtorrent/!svn/ver/4338/branches/RC_0_15/set_version.py
+END
+parse_dht_rtt.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/libtorrent/!svn/ver/4338/branches/RC_0_15/parse_dht_rtt.py
+END
+dht_flood.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/libtorrent/!svn/ver/4338/branches/RC_0_15/dht_flood.py
+END
+parse_memory_log.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/libtorrent/!svn/ver/4338/branches/RC_0_15/parse_memory_log.py
+END
+build_dist.sh
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/libtorrent/!svn/ver/3996/branches/RC_0_15/build_dist.sh
+END
+parse_buffer_log.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/libtorrent/!svn/ver/4338/branches/RC_0_15/parse_buffer_log.py
+END
+libtorrent-rasterbar-cmake.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/libtorrent/!svn/ver/3793/branches/RC_0_15/libtorrent-rasterbar-cmake.pc.in
+END
+parse_disk_access.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/libtorrent/!svn/ver/4338/branches/RC_0_15/parse_disk_access.py
+END
+project-root.jam
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/libtorrent/!svn/ver/3793/branches/RC_0_15/project-root.jam
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/libtorrent/!svn/ver/3793/branches/RC_0_15/README
+END
+parse_dht_log.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/libtorrent/!svn/ver/4338/branches/RC_0_15/parse_dht_log.py
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/libtorrent/!svn/ver/5397/branches/RC_0_15/configure.ac
+END
+parse_disk_buffer_log.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/libtorrent/!svn/ver/4338/branches/RC_0_15/parse_disk_buffer_log.py
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/libtorrent/!svn/ver/5348/branches/RC_0_15/Jamfile
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/libtorrent/!svn/ver/3793/branches/RC_0_15/COPYING
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/libtorrent/!svn/ver/4655/branches/RC_0_15/Makefile.am
+END
+parse_disk_log.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/libtorrent/!svn/ver/4338/branches/RC_0_15/parse_disk_log.py
+END
+NEWS
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/libtorrent/!svn/ver/3793/branches/RC_0_15/NEWS
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/libtorrent/!svn/ver/5141/branches/RC_0_15/CMakeLists.txt
+END
+libtorrent-rasterbar.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/libtorrent/!svn/ver/3848/branches/RC_0_15/libtorrent-rasterbar.pc.in
+END
+parse_dht_stats.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/libtorrent/!svn/ver/4338/branches/RC_0_15/parse_dht_stats.py
+END

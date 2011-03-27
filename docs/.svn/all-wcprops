@@ -1,0 +1,539 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/libtorrent/!svn/ver/5142/branches/RC_0_15/docs
+END
+manual.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/libtorrent/!svn/ver/5142/branches/RC_0_15/docs/manual.html
+END
+session_stats_peers.png
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/libtorrent/!svn/ver/3793/branches/RC_0_15/docs/session_stats_peers.png
+END
+client_test.rst
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/libtorrent/!svn/ver/3793/branches/RC_0_15/docs/client_test.rst
+END
+write_disk_buffers.graffle
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/libtorrent/!svn/ver/3793/branches/RC_0_15/docs/write_disk_buffers.graffle
+END
+arctic_thumb.png
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/libtorrent/!svn/ver/3793/branches/RC_0_15/docs/arctic_thumb.png
+END
+storage.png
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/libtorrent/!svn/ver/3793/branches/RC_0_15/docs/storage.png
+END
+libtorrent_plugins.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/libtorrent/!svn/ver/3793/branches/RC_0_15/docs/libtorrent_plugins.html
+END
+deluge.png
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/libtorrent/!svn/ver/3793/branches/RC_0_15/docs/deluge.png
+END
+stylesheet
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/libtorrent/!svn/ver/3793/branches/RC_0_15/docs/stylesheet
+END
+bitslug_thumb.png
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/libtorrent/!svn/ver/3793/branches/RC_0_15/docs/bitslug_thumb.png
+END
+disk_access_no_elevator.png
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/libtorrent/!svn/ver/3822/branches/RC_0_15/docs/disk_access_no_elevator.png
+END
+electric_sheep_thumb.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/libtorrent/!svn/ver/3793/branches/RC_0_15/docs/electric_sheep_thumb.jpg
+END
+Linkage.png
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/libtorrent/!svn/ver/3793/branches/RC_0_15/docs/Linkage.png
+END
+bubba.png
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/libtorrent/!svn/ver/3793/branches/RC_0_15/docs/bubba.png
+END
+bitscast_thumb.png
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/libtorrent/!svn/ver/3793/branches/RC_0_15/docs/bitscast_thumb.png
+END
+disk_buffer_before_optimization.png
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/libtorrent/!svn/ver/3793/branches/RC_0_15/docs/disk_buffer_before_optimization.png
+END
+projects.rst
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/libtorrent/!svn/ver/4562/branches/RC_0_15/docs/projects.rst
+END
+extension_protocol.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/libtorrent/!svn/ver/3793/branches/RC_0_15/docs/extension_protocol.html
+END
+dht_extensions.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/libtorrent/!svn/ver/5073/branches/RC_0_15/docs/dht_extensions.html
+END
+pump.png
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/libtorrent/!svn/ver/3793/branches/RC_0_15/docs/pump.png
+END
+building.rst
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/libtorrent/!svn/ver/5141/branches/RC_0_15/docs/building.rst
+END
+running_tests.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/libtorrent/!svn/ver/3793/branches/RC_0_15/docs/running_tests.html
+END
+write_disk_buffers.dot
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/libtorrent/!svn/ver/3793/branches/RC_0_15/docs/write_disk_buffers.dot
+END
+libtorrent_screen.png
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/libtorrent/!svn/ver/3793/branches/RC_0_15/docs/libtorrent_screen.png
+END
+disk_buffer.png
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/libtorrent/!svn/ver/3793/branches/RC_0_15/docs/disk_buffer.png
+END
+storage.graffle
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/libtorrent/!svn/ver/3793/branches/RC_0_15/docs/storage.graffle
+END
+index.rst
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/libtorrent/!svn/ver/4284/branches/RC_0_15/docs/index.rst
+END
+contributing.rst
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/libtorrent/!svn/ver/5141/branches/RC_0_15/docs/contributing.rst
+END
+bitfox.png
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/libtorrent/!svn/ver/3793/branches/RC_0_15/docs/bitfox.png
+END
+client_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/libtorrent/!svn/ver/3793/branches/RC_0_15/docs/client_test.html
+END
+python_binding.rst
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/libtorrent/!svn/ver/4599/branches/RC_0_15/docs/python_binding.rst
+END
+read_disk_buffers.png
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/libtorrent/!svn/ver/3793/branches/RC_0_15/docs/read_disk_buffers.png
+END
+make_thumb.sh
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/libtorrent/!svn/ver/3793/branches/RC_0_15/docs/make_thumb.sh
+END
+features.rst
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/libtorrent/!svn/ver/5141/branches/RC_0_15/docs/features.rst
+END
+examples.rst
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/libtorrent/!svn/ver/3793/branches/RC_0_15/docs/examples.rst
+END
+halite_thumb.png
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/libtorrent/!svn/ver/3793/branches/RC_0_15/docs/halite_thumb.png
+END
+fdm.png
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/libtorrent/!svn/ver/3793/branches/RC_0_15/docs/fdm.png
+END
+folx.png
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/libtorrent/!svn/ver/4499/branches/RC_0_15/docs/folx.png
+END
+projects.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/libtorrent/!svn/ver/4562/branches/RC_0_15/docs/projects.html
+END
+make_torrent.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/libtorrent/!svn/ver/5142/branches/RC_0_15/docs/make_torrent.html
+END
+zyxel.png
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/libtorrent/!svn/ver/4486/branches/RC_0_15/docs/zyxel.png
+END
+building.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/libtorrent/!svn/ver/5142/branches/RC_0_15/docs/building.html
+END
+unicode_support.png
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/libtorrent/!svn/ver/3793/branches/RC_0_15/docs/unicode_support.png
+END
+read_disk_buffers.graffle
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/libtorrent/!svn/ver/3793/branches/RC_0_15/docs/read_disk_buffers.graffle
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/libtorrent/!svn/ver/4284/branches/RC_0_15/docs/makefile
+END
+lince.png
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/libtorrent/!svn/ver/3793/branches/RC_0_15/docs/lince.png
+END
+merkle_tree.png
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/libtorrent/!svn/ver/3793/branches/RC_0_15/docs/merkle_tree.png
+END
+tvitty.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/libtorrent/!svn/ver/3793/branches/RC_0_15/docs/tvitty.jpg
+END
+ziptorrent_thumb.gif
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/libtorrent/!svn/ver/3793/branches/RC_0_15/docs/ziptorrent_thumb.gif
+END
+miro.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/libtorrent/!svn/ver/4243/branches/RC_0_15/docs/miro.jpg
+END
+firetorrent.png
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/libtorrent/!svn/ver/3793/branches/RC_0_15/docs/firetorrent.png
+END
+read_disk_buffers.dot
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/libtorrent/!svn/ver/3793/branches/RC_0_15/docs/read_disk_buffers.dot
+END
+style.css
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/libtorrent/!svn/ver/3793/branches/RC_0_15/docs/style.css
+END
+udp_tracker_protocol.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/libtorrent/!svn/ver/3793/branches/RC_0_15/docs/udp_tracker_protocol.html
+END
+moopolice_thumb.gif
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/libtorrent/!svn/ver/3793/branches/RC_0_15/docs/moopolice_thumb.gif
+END
+template.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/libtorrent/!svn/ver/3793/branches/RC_0_15/docs/template.txt
+END
+qbittorrent_thumb.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/libtorrent/!svn/ver/3793/branches/RC_0_15/docs/qbittorrent_thumb.jpg
+END
+udp_tracker_protocol.rst
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/libtorrent/!svn/ver/3793/branches/RC_0_15/docs/udp_tracker_protocol.rst
+END
+disk_access.png
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/libtorrent/!svn/ver/3793/branches/RC_0_15/docs/disk_access.png
+END
+disk_access_elevator.png
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/libtorrent/!svn/ver/3822/branches/RC_0_15/docs/disk_access_elevator.png
+END
+limewire.png
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/libtorrent/!svn/ver/3793/branches/RC_0_15/docs/limewire.png
+END
+client_test.png
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/libtorrent/!svn/ver/3793/branches/RC_0_15/docs/client_test.png
+END
+merkle_tree.graffle
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/libtorrent/!svn/ver/3793/branches/RC_0_15/docs/merkle_tree.graffle
+END
+fatrat.png
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/libtorrent/!svn/ver/3793/branches/RC_0_15/docs/fatrat.png
+END
+dht_extensions.rst
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/libtorrent/!svn/ver/5073/branches/RC_0_15/docs/dht_extensions.rst
+END
+tonidoplug.png
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/libtorrent/!svn/ver/4069/branches/RC_0_15/docs/tonidoplug.png
+END
+tvblob.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/libtorrent/!svn/ver/3793/branches/RC_0_15/docs/tvblob.jpg
+END
+bitrocket_thumb.png
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/libtorrent/!svn/ver/3793/branches/RC_0_15/docs/bitrocket_thumb.png
+END
+running_tests.rst
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/libtorrent/!svn/ver/3793/branches/RC_0_15/docs/running_tests.rst
+END
+features.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/libtorrent/!svn/ver/5142/branches/RC_0_15/docs/features.html
+END
+examples.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/libtorrent/!svn/ver/3793/branches/RC_0_15/docs/examples.html
+END
+leechcraft.png
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/libtorrent/!svn/ver/3793/branches/RC_0_15/docs/leechcraft.png
+END
+im_thumb.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/libtorrent/!svn/ver/3793/branches/RC_0_15/docs/im_thumb.jpg
+END
+manual.rst
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/libtorrent/!svn/ver/5141/branches/RC_0_15/docs/manual.rst
+END
+bitbuddy_thumb.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/libtorrent/!svn/ver/3793/branches/RC_0_15/docs/bitbuddy_thumb.jpg
+END
+btg_thumb.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/libtorrent/!svn/ver/3793/branches/RC_0_15/docs/btg_thumb.jpg
+END
+libtorrent_plugins.rst
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/libtorrent/!svn/ver/3793/branches/RC_0_15/docs/libtorrent_plugins.rst
+END
+flush.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/libtorrent/!svn/ver/3793/branches/RC_0_15/docs/flush.jpg
+END
+make_torrent.rst
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/libtorrent/!svn/ver/4897/branches/RC_0_15/docs/make_torrent.rst
+END
+write_disk_buffers.png
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/libtorrent/!svn/ver/3793/branches/RC_0_15/docs/write_disk_buffers.png
+END
+disk_io.png
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/libtorrent/!svn/ver/3793/branches/RC_0_15/docs/disk_io.png
+END
+extension_protocol.rst
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/libtorrent/!svn/ver/3793/branches/RC_0_15/docs/extension_protocol.rst
+END
+disk_buffer_sample.png
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/libtorrent/!svn/ver/3793/branches/RC_0_15/docs/disk_buffer_sample.png
+END
+tuning.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/libtorrent/!svn/ver/5142/branches/RC_0_15/docs/tuning.html
+END
+t2e.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/libtorrent/!svn/ver/4486/branches/RC_0_15/docs/t2e.jpg
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/libtorrent/!svn/ver/4284/branches/RC_0_15/docs/index.html
+END
+contributing.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/libtorrent/!svn/ver/5142/branches/RC_0_15/docs/contributing.html
+END
+tuning.rst
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/libtorrent/!svn/ver/5141/branches/RC_0_15/docs/tuning.rst
+END
+python_binding.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/libtorrent/!svn/ver/4800/branches/RC_0_15/docs/python_binding.html
+END

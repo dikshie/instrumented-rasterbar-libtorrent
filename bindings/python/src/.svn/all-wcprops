@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/libtorrent/!svn/ver/5321/branches/RC_0_15/bindings/python/src
+END
+extensions.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/libtorrent/!svn/ver/4085/branches/RC_0_15/bindings/python/src/extensions.cpp
+END
+torrent_status.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/libtorrent/!svn/ver/5095/branches/RC_0_15/bindings/python/src/torrent_status.cpp
+END
+entry.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/libtorrent/!svn/ver/3793/branches/RC_0_15/bindings/python/src/entry.cpp
+END
+session_settings.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/libtorrent/!svn/ver/4283/branches/RC_0_15/bindings/python/src/session_settings.cpp
+END
+utility.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/libtorrent/!svn/ver/3793/branches/RC_0_15/bindings/python/src/utility.cpp
+END
+peer_info.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/libtorrent/!svn/ver/4119/branches/RC_0_15/bindings/python/src/peer_info.cpp
+END
+alert.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/libtorrent/!svn/ver/5118/branches/RC_0_15/bindings/python/src/alert.cpp
+END
+torrent_handle.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/libtorrent/!svn/ver/5184/branches/RC_0_15/bindings/python/src/torrent_handle.cpp
+END
+torrent_info.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/libtorrent/!svn/ver/4722/branches/RC_0_15/bindings/python/src/torrent_info.cpp
+END
+peer_plugin.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/libtorrent/!svn/ver/3793/branches/RC_0_15/bindings/python/src/peer_plugin.cpp
+END
+big_number.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/libtorrent/!svn/ver/4226/branches/RC_0_15/bindings/python/src/big_number.cpp
+END
+ip_filter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/libtorrent/!svn/ver/3793/branches/RC_0_15/bindings/python/src/ip_filter.cpp
+END
+gil.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/libtorrent/!svn/ver/3793/branches/RC_0_15/bindings/python/src/gil.hpp
+END
+create_torrent.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/libtorrent/!svn/ver/4937/branches/RC_0_15/bindings/python/src/create_torrent.cpp
+END
+session.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/libtorrent/!svn/ver/5184/branches/RC_0_15/bindings/python/src/session.cpp
+END
+filesystem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/libtorrent/!svn/ver/3793/branches/RC_0_15/bindings/python/src/filesystem.cpp
+END
+module.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/libtorrent/!svn/ver/3793/branches/RC_0_15/bindings/python/src/module.cpp
+END
+version.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/libtorrent/!svn/ver/3793/branches/RC_0_15/bindings/python/src/version.cpp
+END
+fingerprint.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/libtorrent/!svn/ver/3793/branches/RC_0_15/bindings/python/src/fingerprint.cpp
+END
+optional.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/libtorrent/!svn/ver/3793/branches/RC_0_15/bindings/python/src/optional.hpp
+END
+magnet_uri.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/libtorrent/!svn/ver/5321/branches/RC_0_15/bindings/python/src/magnet_uri.cpp
+END
+converters.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/libtorrent/!svn/ver/3793/branches/RC_0_15/bindings/python/src/converters.cpp
+END
+datetime.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/libtorrent/!svn/ver/3793/branches/RC_0_15/bindings/python/src/datetime.cpp
+END
+torrent.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/libtorrent/!svn/ver/3793/branches/RC_0_15/bindings/python/src/torrent.cpp
+END

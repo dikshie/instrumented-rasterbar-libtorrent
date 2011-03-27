@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/libtorrent/!svn/ver/3848/branches/RC_0_15/zlib
+END
+inffast.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/libtorrent/!svn/ver/3793/branches/RC_0_15/zlib/inffast.h
+END
+inffixed.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/libtorrent/!svn/ver/3793/branches/RC_0_15/zlib/inffixed.h
+END
+deflate.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/libtorrent/!svn/ver/3793/branches/RC_0_15/zlib/deflate.c
+END
+zlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/libtorrent/!svn/ver/3793/branches/RC_0_15/zlib/zlib.h
+END
+zutil.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/libtorrent/!svn/ver/3793/branches/RC_0_15/zlib/zutil.c
+END
+gzio.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/libtorrent/!svn/ver/3793/branches/RC_0_15/zlib/gzio.c
+END
+deflate.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/libtorrent/!svn/ver/3793/branches/RC_0_15/zlib/deflate.h
+END
+crc32.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/libtorrent/!svn/ver/3793/branches/RC_0_15/zlib/crc32.c
+END
+zutil.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/libtorrent/!svn/ver/3793/branches/RC_0_15/zlib/zutil.h
+END
+inftrees.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/libtorrent/!svn/ver/3793/branches/RC_0_15/zlib/inftrees.c
+END
+crc32.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/libtorrent/!svn/ver/3793/branches/RC_0_15/zlib/crc32.h
+END
+inflate.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/libtorrent/!svn/ver/3793/branches/RC_0_15/zlib/inflate.c
+END
+trees.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/libtorrent/!svn/ver/3793/branches/RC_0_15/zlib/trees.c
+END
+uncompr.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/libtorrent/!svn/ver/3793/branches/RC_0_15/zlib/uncompr.c
+END
+inftrees.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/libtorrent/!svn/ver/3793/branches/RC_0_15/zlib/inftrees.h
+END
+zconf.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/libtorrent/!svn/ver/3793/branches/RC_0_15/zlib/zconf.h
+END
+inflate.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/libtorrent/!svn/ver/3793/branches/RC_0_15/zlib/inflate.h
+END
+trees.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/libtorrent/!svn/ver/3793/branches/RC_0_15/zlib/trees.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/libtorrent/!svn/ver/3848/branches/RC_0_15/zlib/Makefile.am
+END
+inffast.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/libtorrent/!svn/ver/3793/branches/RC_0_15/zlib/inffast.c
+END
+compress.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/libtorrent/!svn/ver/3793/branches/RC_0_15/zlib/compress.c
+END
+adler32.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/libtorrent/!svn/ver/3793/branches/RC_0_15/zlib/adler32.c
+END
+infback.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/libtorrent/!svn/ver/3793/branches/RC_0_15/zlib/infback.c
+END

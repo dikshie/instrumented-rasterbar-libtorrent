@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/libtorrent/!svn/ver/5246/branches/RC_0_15/test
+END
+test_natpmp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/libtorrent/!svn/ver/3876/branches/RC_0_15/test/test_natpmp.cpp
+END
+test_pe_crypto.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/libtorrent/!svn/ver/3793/branches/RC_0_15/test/test_pe_crypto.cpp
+END
+test_storage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/libtorrent/!svn/ver/4904/branches/RC_0_15/test/test_storage.cpp
+END
+setup_transfer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/libtorrent/!svn/ver/5169/branches/RC_0_15/test/setup_transfer.cpp
+END
+test_bdecode_performance.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/libtorrent/!svn/ver/3793/branches/RC_0_15/test/test_bdecode_performance.cpp
+END
+test_buffer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/libtorrent/!svn/ver/3793/branches/RC_0_15/test/test_buffer.cpp
+END
+test_hasher.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/libtorrent/!svn/ver/3793/branches/RC_0_15/test/test_hasher.cpp
+END
+setup_transfer.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/libtorrent/!svn/ver/4200/branches/RC_0_15/test/setup_transfer.hpp
+END
+test_trackers_extension.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/libtorrent/!svn/ver/3933/branches/RC_0_15/test/test_trackers_extension.cpp
+END
+test_metadata_extension.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/libtorrent/!svn/ver/4014/branches/RC_0_15/test/test_metadata_extension.cpp
+END
+test_ip_filter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/libtorrent/!svn/ver/3793/branches/RC_0_15/test/test_ip_filter.cpp
+END
+test_web_seed.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/libtorrent/!svn/ver/4979/branches/RC_0_15/test/test_web_seed.cpp
+END
+test_lsd.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/libtorrent/!svn/ver/4076/branches/RC_0_15/test/test_lsd.cpp
+END
+test_piece_picker.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/libtorrent/!svn/ver/5246/branches/RC_0_15/test/test_piece_picker.cpp
+END
+test_upnp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/libtorrent/!svn/ver/4200/branches/RC_0_15/test/test_upnp.cpp
+END
+test_auto_unchoke.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/libtorrent/!svn/ver/4336/branches/RC_0_15/test/test_auto_unchoke.cpp
+END
+test_transfer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/libtorrent/!svn/ver/4792/branches/RC_0_15/test/test_transfer.cpp
+END
+test.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/libtorrent/!svn/ver/3793/branches/RC_0_15/test/test.hpp
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/libtorrent/!svn/ver/3793/branches/RC_0_15/test/main.cpp
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/libtorrent/!svn/ver/4075/branches/RC_0_15/test/Jamfile
+END
+test_bencoding.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/libtorrent/!svn/ver/4645/branches/RC_0_15/test/test_bencoding.cpp
+END
+test_fast_extension.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/libtorrent/!svn/ver/4501/branches/RC_0_15/test/test_fast_extension.cpp
+END
+test_bandwidth_limiter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/libtorrent/!svn/ver/3868/branches/RC_0_15/test/test_bandwidth_limiter.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/libtorrent/!svn/ver/3848/branches/RC_0_15/test/Makefile.am
+END
+test_swarm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/libtorrent/!svn/ver/4092/branches/RC_0_15/test/test_swarm.cpp
+END
+test_primitives.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/libtorrent/!svn/ver/5139/branches/RC_0_15/test/test_primitives.cpp
+END
+test_pex.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/libtorrent/!svn/ver/3793/branches/RC_0_15/test/test_pex.cpp
+END
+test_torrent.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/libtorrent/!svn/ver/3793/branches/RC_0_15/test/test_torrent.cpp
+END
+test_http_connection.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/libtorrent/!svn/ver/4898/branches/RC_0_15/test/test_http_connection.cpp
+END

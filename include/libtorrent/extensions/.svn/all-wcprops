@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/libtorrent/!svn/ver/4075/branches/RC_0_15/include/libtorrent/extensions
+END
+lt_trackers.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/libtorrent/!svn/ver/4075/branches/RC_0_15/include/libtorrent/extensions/lt_trackers.hpp
+END
+logger.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/libtorrent/!svn/ver/3793/branches/RC_0_15/include/libtorrent/extensions/logger.hpp
+END
+metadata_transfer.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/libtorrent/!svn/ver/3793/branches/RC_0_15/include/libtorrent/extensions/metadata_transfer.hpp
+END
+ut_pex.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/libtorrent/!svn/ver/3793/branches/RC_0_15/include/libtorrent/extensions/ut_pex.hpp
+END
+smart_ban.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/libtorrent/!svn/ver/3793/branches/RC_0_15/include/libtorrent/extensions/smart_ban.hpp
+END
+ut_metadata.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/libtorrent/!svn/ver/3793/branches/RC_0_15/include/libtorrent/extensions/ut_metadata.hpp
+END

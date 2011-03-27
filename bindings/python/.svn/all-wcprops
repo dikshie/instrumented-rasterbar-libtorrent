@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/libtorrent/!svn/ver/5321/branches/RC_0_15/bindings/python
+END
+client.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/libtorrent/!svn/ver/4119/branches/RC_0_15/bindings/python/client.py
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/libtorrent/!svn/ver/3793/branches/RC_0_15/bindings/python/Jamfile
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/libtorrent/!svn/ver/3848/branches/RC_0_15/bindings/python/Makefile.am
+END
+setup.py.in
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/libtorrent/!svn/ver/4778/branches/RC_0_15/bindings/python/setup.py.in
+END
+simple_client.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/libtorrent/!svn/ver/3793/branches/RC_0_15/bindings/python/simple_client.py
+END

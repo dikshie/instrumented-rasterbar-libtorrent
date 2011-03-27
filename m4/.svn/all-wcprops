@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/libtorrent/!svn/ver/4777/branches/RC_0_15/m4
+END
+ax_boost_filesystem.m4
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/libtorrent/!svn/ver/4037/branches/RC_0_15/m4/ax_boost_filesystem.m4
+END
+ax_boost_system.m4
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/libtorrent/!svn/ver/3848/branches/RC_0_15/m4/ax_boost_system.m4
+END
+ax_boost_thread.m4
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/libtorrent/!svn/ver/3848/branches/RC_0_15/m4/ax_boost_thread.m4
+END
+pkgconfig.m4
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/libtorrent/!svn/ver/3848/branches/RC_0_15/m4/pkgconfig.m4
+END
+ax_boost_base.m4
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/libtorrent/!svn/ver/3848/branches/RC_0_15/m4/ax_boost_base.m4
+END
+ax_check_geoip.m4
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/libtorrent/!svn/ver/3848/branches/RC_0_15/m4/ax_check_geoip.m4
+END
+ax_check_openssl.m4
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/libtorrent/!svn/ver/4636/branches/RC_0_15/m4/ax_check_openssl.m4
+END
+ax_python_devel.m4
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/libtorrent/!svn/ver/3875/branches/RC_0_15/m4/ax_python_devel.m4
+END
+ax_boost_python.m4
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/libtorrent/!svn/ver/3875/branches/RC_0_15/m4/ax_boost_python.m4
+END
+ax_pthread.m4
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/libtorrent/!svn/ver/4777/branches/RC_0_15/m4/ax_pthread.m4
+END

@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/libtorrent/!svn/ver/5297/branches/RC_0_15/include/libtorrent/kademlia
+END
+find_data.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/libtorrent/!svn/ver/3793/branches/RC_0_15/include/libtorrent/kademlia/find_data.hpp
+END
+traversal_algorithm.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/libtorrent/!svn/ver/4495/branches/RC_0_15/include/libtorrent/kademlia/traversal_algorithm.hpp
+END
+dht_tracker.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/libtorrent/!svn/ver/4268/branches/RC_0_15/include/libtorrent/kademlia/dht_tracker.hpp
+END
+refresh.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/libtorrent/!svn/ver/3816/branches/RC_0_15/include/libtorrent/kademlia/refresh.hpp
+END
+routing_table.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/libtorrent/!svn/ver/4289/branches/RC_0_15/include/libtorrent/kademlia/routing_table.hpp
+END
+rpc_manager.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/libtorrent/!svn/ver/3793/branches/RC_0_15/include/libtorrent/kademlia/rpc_manager.hpp
+END
+node_id.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/libtorrent/!svn/ver/5134/branches/RC_0_15/include/libtorrent/kademlia/node_id.hpp
+END
+closest_nodes.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/libtorrent/!svn/ver/3793/branches/RC_0_15/include/libtorrent/kademlia/closest_nodes.hpp
+END
+node.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/libtorrent/!svn/ver/5297/branches/RC_0_15/include/libtorrent/kademlia/node.hpp
+END
+logging.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/libtorrent/!svn/ver/3793/branches/RC_0_15/include/libtorrent/kademlia/logging.hpp
+END
+msg.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/libtorrent/!svn/ver/5134/branches/RC_0_15/include/libtorrent/kademlia/msg.hpp
+END
+node_entry.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/libtorrent/!svn/ver/3793/branches/RC_0_15/include/libtorrent/kademlia/node_entry.hpp
+END
+observer.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/libtorrent/!svn/ver/3793/branches/RC_0_15/include/libtorrent/kademlia/observer.hpp
+END
