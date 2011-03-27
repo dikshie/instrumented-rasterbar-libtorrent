@@ -37,6 +37,7 @@ POSSIBILITY OF SUCH DAMAGE.
 #endif
 
 #include <boost/shared_ptr.hpp>
+#include <boost/lexical_cast.hpp>
 
 #ifdef _MSC_VER
 #pragma warning(pop)
@@ -268,6 +269,9 @@ namespace libtorrent { namespace
 					// ignore local addresses unless the peer is local to us
 					if (is_local(adr.address()) && !is_local(m_pc.remote().address())) continue;
 					p.add_peer(adr, pid, peer_info::pex, flags);
+#ifdef TORRENT_VERBOSE_LOGGING
+					(*m_pc.m_logger) << time_now_string() << " " << "PEX" << " " << boost::lexical_cast<std::string>(adr.address()) << " " << boost::lexical_cast<std::string>(adr.port()) << "\n";
+#endif
 				} 
 			}
 
@@ -293,6 +297,9 @@ namespace libtorrent { namespace
 					// ignore local addresses unless the peer is local to us
 					if (is_local(adr.address()) && !is_local(m_pc.remote().address())) continue;
 					p.add_peer(adr, pid, peer_info::pex, flags);
+#ifdef TORRENT_VERBOSE_LOGGING
+					(*m_pc.m_logger) << time_now_string() << " " << "PEX" << " " << boost::lexical_cast<std::string>(adr.address()) << " " << boost::lexical_cast<std::string>(adr.port()) << "\n";
+#endif
 				} 
 			}
 #endif
