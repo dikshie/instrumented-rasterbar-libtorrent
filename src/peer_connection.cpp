@@ -35,6 +35,7 @@ POSSIBILITY OF SUCH DAMAGE.
 #include <vector>
 #include <limits>
 #include <boost/bind.hpp>
+#include <boost/lexical_cast.hpp>
 
 #include "libtorrent/peer_connection.hpp"
 #include "libtorrent/identify_client.hpp"
@@ -181,7 +182,7 @@ namespace libtorrent
 #if defined TORRENT_VERBOSE_LOGGING || defined TORRENT_ERROR_LOGGING
 		error_code ec;
 		m_logger = m_ses.create_log(m_remote.address().to_string(ec) + "_"
-			+ to_string(m_remote.port()).elems, m_ses.listen_port());
+			+ boost::lexical_cast<std::string>(m_remote.port()), m_ses.listen_port());
 		(*m_logger) << "*** OUTGOING CONNECTION\n";
 #endif
 #ifdef TORRENT_DEBUG
@@ -306,7 +307,7 @@ namespace libtorrent
 		error_code ec;
 		TORRENT_ASSERT(m_socket->remote_endpoint(ec) == m_remote || ec);
 		m_logger = m_ses.create_log(remote().address().to_string(ec) + "_"
-			+ to_string(remote().port()).elems, m_ses.listen_port());
+			+ boost::lexical_cast<std::string>(remote().port()), m_ses.listen_port());
 		(*m_logger) << "*** INCOMING CONNECTION\n";
 #endif
 		
