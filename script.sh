@@ -1,0 +1,1 @@
+./configure --enable-largefile --with-boost  --with-boost-system=boost_system --with-boost-filesystem=boost_filesystem --with-boost-thread=boost_thread --enable-examples --enable-pool-allocators --enable-dht --enable-deprecated-functions --enable-logging=verbose  --enable-statistics  --enable-disk-stats 
